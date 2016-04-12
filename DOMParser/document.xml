@@ -1,0 +1,538 @@
+
+        <ns2:HomeDocRequest>
+          <TransactionType>NB</TransactionType>
+          <LineOfBusiness>F</LineOfBusiness>
+          <Forms>
+            <Form>
+              <FormType>MEMORANDUMINSURANCE</FormType>
+              <SRN>31-7153</SRN>
+              <FormDisplayLabel>Application of Insurance</FormDisplayLabel>
+              <FormHeader>Farmers Smart Plan Home{super}{DH-DEC-RM}{RM}{normal}{DH-01}</FormHeader>
+              <FormLabel>Application for Insurance</FormLabel>
+              <ApplicableFor>P</ApplicableFor>
+              <ESignatureEnabled>Y</ESignatureEnabled>
+              <OCREnabled>N</OCREnabled>
+              <RevisionDate>6-16</RevisionDate>
+            </Form>
+          </Forms>
+          <HouseHoldInformation>
+            <HouseHoldNumber>1605325185</HouseHoldNumber>
+            <HouseHoldContact>
+              <AreaCode>789</AreaCode>
+              <PhoneNumber>4561237</PhoneNumber>
+              <Email>RAZIASHAIK@GMAIL.COM</Email>
+            </HouseHoldContact>
+          </HouseHoldInformation>
+          <Home>
+            <HomeCoverages>
+              <HomeCoverage>
+                <CoverageTypeCode>DWELLING</CoverageTypeCode>
+                <CoverageAmount>162000</CoverageAmount>
+                <CoveragePremiumAmount>459.35</CoveragePremiumAmount>
+                <CoverageLimitDeductible1>0</CoverageLimitDeductible1>
+                <CoverageLimitDeductible2>0</CoverageLimitDeductible2>
+                <CoverageLimitDeductible3>0</CoverageLimitDeductible3>
+                <CoverageAmountCategoryCode1>A</CoverageAmountCategoryCode1>
+                <CoverageAmountCategoryCode2>A</CoverageAmountCategoryCode2>
+                <CoverageAmountCategoryCode3 />
+                <EndorsementNumber />
+                <ProdCoverageAmountCd1>A</ProdCoverageAmountCd1>
+                <ProdCoverageAmountCd2>A</ProdCoverageAmountCd2>
+                <ProdCoverageAmountCd3 />
+                <CoverageARateAccessDate>04/04/2016</CoverageARateAccessDate>
+              </HomeCoverage>
+              <HomeCoverage>
+                <CoverageTypeCode>GUESTMCL</CoverageTypeCode>
+                <CoverageAmount>1000</CoverageAmount>
+                <CoveragePremiumAmount>0.00</CoveragePremiumAmount>
+                <CoverageLimitDeductible1>1000</CoverageLimitDeductible1>
+                <CoverageAmountCategoryCode1>A</CoverageAmountCategoryCode1>
+                <CoverageAmountCategoryCode2 />
+                <CoverageAmountCategoryCode3 />
+                <EndorsementNumber />
+                <ProdCoverageAmountCd1>A</ProdCoverageAmountCd1>
+                <ProdCoverageAmountCd2 />
+                <ProdCoverageAmountCd3 />
+              </HomeCoverage>
+              <HomeCoverage>
+                <CoverageTypeCode>LOSOFUSE</CoverageTypeCode>
+                <CoverageAmount>20</CoverageAmount>
+                <CoveragePremiumAmount>0.00</CoveragePremiumAmount>
+                <CoverageLimitDeductible1>20</CoverageLimitDeductible1>
+                <CoverageAmountCategoryCode1>A</CoverageAmountCategoryCode1>
+                <CoverageAmountCategoryCode2 />
+                <CoverageAmountCategoryCode3 />
+                <EndorsementNumber />
+                <ProdCoverageAmountCd1>A</ProdCoverageAmountCd1>
+                <ProdCoverageAmountCd2 />
+                <ProdCoverageAmountCd3 />
+              </HomeCoverage>
+              <HomeCoverage>
+                <CoverageTypeCode>PERSLIAB</CoverageTypeCode>
+                <CoverageAmount>300000</CoverageAmount>
+                <CoveragePremiumAmount>63.53</CoveragePremiumAmount>
+                <CoverageLimitDeductible1>300000</CoverageLimitDeductible1>
+                <CoverageAmountCategoryCode1>A</CoverageAmountCategoryCode1>
+                <CoverageAmountCategoryCode2 />
+                <CoverageAmountCategoryCode3 />
+                <EndorsementNumber />
+                <ProdCoverageAmountCd1>A</ProdCoverageAmountCd1>
+                <ProdCoverageAmountCd2 />
+                <ProdCoverageAmountCd3 />
+              </HomeCoverage>
+              <HomeCoverage>
+                <CoverageTypeCode>ALEEXP  </CoverageTypeCode>
+                <CoverageAmount>12</CoverageAmount>
+                <CoveragePremiumAmount>0.00</CoveragePremiumAmount>
+                <CoverageLimitDeductible1>12</CoverageLimitDeductible1>
+                <CoverageAmountCategoryCode1>A</CoverageAmountCategoryCode1>
+                <CoverageAmountCategoryCode2 />
+                <CoverageAmountCategoryCode3 />
+                <EndorsementNumber />
+                <ProdCoverageAmountCd1>A</ProdCoverageAmountCd1>
+                <ProdCoverageAmountCd2 />
+                <ProdCoverageAmountCd3 />
+              </HomeCoverage>
+              <HomeCoverage>
+                <CoverageTypeCode>SEPSTRUC</CoverageTypeCode>
+                <CoverageAmount>10</CoverageAmount>
+                <CoveragePremiumAmount>0.00</CoveragePremiumAmount>
+                <CoverageLimitDeductible1>10</CoverageLimitDeductible1>
+                <CoverageAmountCategoryCode1>A</CoverageAmountCategoryCode1>
+                <CoverageAmountCategoryCode2 />
+                <CoverageAmountCategoryCode3 />
+                <EndorsementNumber />
+                <ProdCoverageAmountCd1>A</ProdCoverageAmountCd1>
+                <ProdCoverageAmountCd2 />
+                <ProdCoverageAmountCd3 />
+              </HomeCoverage>
+              <HomeCoverage>
+                <CoverageTypeCode>MRPLC   </CoverageTypeCode>
+                <CoveragePremiumAmount>0.00</CoveragePremiumAmount>
+                <EndorsementNumber>MI053</EndorsementNumber>
+              </HomeCoverage>
+              <HomeCoverage>
+                <CoverageTypeCode>CNTRPL  </CoverageTypeCode>
+                <CoveragePremiumAmount>0.00</CoveragePremiumAmount>
+                <EndorsementNumber />
+              </HomeCoverage>
+              <HomeCoverage>
+                <CoverageTypeCode>PERSPROP</CoverageTypeCode>
+                <CoverageAmount>55</CoverageAmount>
+                <CoveragePremiumAmount>0.00</CoveragePremiumAmount>
+                <CoverageLimitDeductible1>55</CoverageLimitDeductible1>
+                <CoverageAmountCategoryCode1>A</CoverageAmountCategoryCode1>
+                <CoverageAmountCategoryCode2 />
+                <CoverageAmountCategoryCode3 />
+                <EndorsementNumber />
+                <ProdCoverageAmountCd1>A</ProdCoverageAmountCd1>
+                <ProdCoverageAmountCd2 />
+                <ProdCoverageAmountCd3 />
+              </HomeCoverage>
+              <HomeCoverage>
+                <CoverageTypeCode>UDMGPRO </CoverageTypeCode>
+                <CoverageAmount>10000</CoverageAmount>
+                <CoveragePremiumAmount>0.00</CoveragePremiumAmount>
+                <CoverageLimitDeductible1>10000</CoverageLimitDeductible1>
+                <CoverageAmountCategoryCode1>A</CoverageAmountCategoryCode1>
+                <CoverageAmountCategoryCode2 />
+                <CoverageAmountCategoryCode3 />
+                <EndorsementNumber />
+                <ProdCoverageAmountCd1>A</ProdCoverageAmountCd1>
+                <ProdCoverageAmountCd2 />
+                <ProdCoverageAmountCd3 />
+              </HomeCoverage>
+            </HomeCoverages>
+            <DwellingProperty>
+              <RuralFireProtectionInd />
+              <SubscriptionPaymentInd />
+              <ConstructionMaterial>V</ConstructionMaterial>
+              <ConstructionYear>2014</ConstructionYear>
+              <NumberOfUnits>1</NumberOfUnits>
+              <OccupancyCode>1</OccupancyCode>
+              <TownhouseInd />
+              <FoundationShapeCode>L</FoundationShapeCode>
+              <ReplacementCost>251000</ReplacementCost>
+              <LiveAreaSqFtAmount>2000</LiveAreaSqFtAmount>
+              <DwellingStyleCode>11</DwellingStyleCode>
+              <RoofTypeCode>1</RoofTypeCode>
+              <GarageCode>4</GarageCode>
+              <InteriorWallCode>1</InteriorWallCode>
+              <ElectricBurglerAlarmInd />
+              <SprinklerSystemCode />
+              <StandardKitchenQuantity>1</StandardKitchenQuantity>
+              <RoofGeometryCode>G</RoofGeometryCode>
+              <HomeSafetyCode>N</HomeSafetyCode>
+              <PrimaryHeatSystemCode>D</PrimaryHeatSystemCode>
+              <BasementSqFtAmount>2000</BasementSqFtAmount>
+              <FinishedSqFtAmount>0</FinishedSqFtAmount>
+              <FoundationTypes>
+                <FoundationType>
+                  <FoundationTypeCode>B</FoundationTypeCode>
+                  <PctUsedFoundationTypeCode>100</PctUsedFoundationTypeCode>
+                </FoundationType>
+                <FoundationType>
+                  <FoundationTypeCode />
+                  <PctUsedFoundationTypeCode>0</PctUsedFoundationTypeCode>
+                </FoundationType>
+                <FoundationType>
+                  <FoundationTypeCode />
+                  <PctUsedFoundationTypeCode>0</PctUsedFoundationTypeCode>
+                </FoundationType>
+                <FoundationType>
+                  <FoundationTypeCode />
+                  <PctUsedFoundationTypeCode>0</PctUsedFoundationTypeCode>
+                </FoundationType>
+              </FoundationTypes>
+              <InteriorWallMaterialCodes>
+                <InteriorWallMaterialCode>DRY12</InteriorWallMaterialCode>
+              </InteriorWallMaterialCodes>
+              <StandardFullBathQty>3</StandardFullBathQty>
+              <LastCalcMethodUsed>H</LastCalcMethodUsed>
+              <DwellingReplaceGroups>
+                <DwellingReplaceGroup />
+              </DwellingReplaceGroups>
+              <AdditionalFeatures>
+                <AdditionalFeature>
+                  <AdditionalFeatureCode>762</AdditionalFeatureCode>
+                </AdditionalFeature>
+                <AdditionalFeature>
+                  <AdditionalFeatureCode>602</AdditionalFeatureCode>
+                  <AdditionalFeatureQty>1</AdditionalFeatureQty>
+                </AdditionalFeature>
+                <AdditionalFeature>
+                  <AdditionalFeatureCode>1203</AdditionalFeatureCode>
+                  <AdditionalFeatureQty>2</AdditionalFeatureQty>
+                </AdditionalFeature>
+              </AdditionalFeatures>
+              <ModifiedProtectionClass>S</ModifiedProtectionClass>
+              <PrimaryHeatingType>C</PrimaryHeatingType>
+              <DogBiteHistoryIndicator />
+              <AdditionalPolicyInfos>
+                <AdditionalPolicyInfo>
+                  <Type>Is the property in foreclosure or vacant?</Type>
+                  <Code>1</Code>
+                </AdditionalPolicyInfo>
+                <AdditionalPolicyInfo>
+                  <Type>Is there a business on property?</Type>
+                  <Code>O</Code>
+                </AdditionalPolicyInfo>
+                <AdditionalPolicyInfo>
+                  <Type>Hazard 1:</Type>
+                  <Code>O</Code>
+                </AdditionalPolicyInfo>
+                <AdditionalPolicyInfo>
+                  <Type>Hazard 2:</Type>
+                  <Code />
+                </AdditionalPolicyInfo>
+                <AdditionalPolicyInfo>
+                  <Type>Hazard 3:</Type>
+                  <Code />
+                </AdditionalPolicyInfo>
+                <AdditionalPolicyInfo>
+                  <Type>UnAcceptable First:</Type>
+                  <Code>N</Code>
+                </AdditionalPolicyInfo>
+                <AdditionalPolicyInfo>
+                  <Type>UnAcceptable Second:</Type>
+                  <Code />
+                </AdditionalPolicyInfo>
+                <AdditionalPolicyInfo>
+                  <Type>UnAcceptable Third:</Type>
+                  <Code />
+                </AdditionalPolicyInfo>
+                <AdditionalPolicyInfo>
+                  <Type>Breed 1:</Type>
+                  <Code />
+                </AdditionalPolicyInfo>
+                <AdditionalPolicyInfo>
+                  <Type>Breed 2:</Type>
+                  <Code />
+                </AdditionalPolicyInfo>
+              </AdditionalPolicyInfos>
+              <DogsOnPropertyInd>N</DogsOnPropertyInd>
+              <DogBiteHstryInd />
+              <RoofReplacementYear>2014</RoofReplacementYear>
+              <BuiltByLicensedContractor>Y</BuiltByLicensedContractor>
+              <AmpearageCapacity>200</AmpearageCapacity>
+              <PermanentStormShutters />
+              <OutsideCityLimits />
+              <UnclearedBrushWithin50Feet>N</UnclearedBrushWithin50Feet>
+              <PropertyVisibleFromRoad />
+              <DesignatedBrushWithin150Feet>N</DesignatedBrushWithin150Feet>
+              <SecondaryHeatingDevice />
+              <InstalledProfessionally />
+              <FireDistrictName>ANN ARBOR</FireDistrictName>
+              <UnclearedBrushWithin100Feet>N</UnclearedBrushWithin100Feet>
+              <PresenceOfSprinkler>N</PresenceOfSprinkler>
+              <ReplacementOverrideCode>Y</ReplacementOverrideCode>
+              <PrimaryHeatingFuelCode>C</PrimaryHeatingFuelCode>
+              <PropertyCode />
+              <WaterHeaterSecuredInd>Y</WaterHeaterSecuredInd>
+              <AnchoredFoundationInd>Y</AnchoredFoundationInd>
+            </DwellingProperty>
+            <PropertyAddress>
+              <CountyCode>81</CountyCode>
+              <StreetAddress>1929 CAMELOT RD LOT ROADANN</StreetAddress>
+              <City>ANN ARBOR</City>
+              <StateCode>MI</StateCode>
+              <PostalCode>481046403</PostalCode>
+              <RatingTerritoryCode />
+            </PropertyAddress>
+            <FIGHydrantInd>Y</FIGHydrantInd>
+            <Mortgagees />
+            <JetSkis>
+              <JetSki />
+            </JetSkis>
+          </Home>
+          <Clients>
+            <Client>
+              <ClientType>PRIMARY_INSURED</ClientType>
+              <RelationshipToHouseholdCode>H</RelationshipToHouseholdCode>
+              <MarritalStatus>S</MarritalStatus>
+              <ClientOccupationCode>DF</ClientOccupationCode>
+              <BirthDate>01/01/1997</BirthDate>
+              <ClientContact>
+                <AreaCode />
+                <Email>RAZIASHAIK@GMAIL.COM</Email>
+              </ClientContact>
+              <FaceSheetName />
+              <ClientNumber>546332054</ClientNumber>
+              <ClientNameInfo>
+                <FirstName>RAZIA</FirstName>
+                <MiddleName />
+                <LastName>SHAIK</LastName>
+                <CompanyName />
+              </ClientNameInfo>
+            </Client>
+          </Clients>
+          <HomePolicy>
+            <AgentInformation>
+              <AgentOfRecord>7114317</AgentOfRecord>
+              <AgentAddress>
+                <StreetAddress>27600 Farmington Rd Ste 207</StreetAddress>
+                <City>Farmington Hills</City>
+                <StateCode>MI</StateCode>
+                <PostalCode>48334-3365</PostalCode>
+              </AgentAddress>
+              <AgentContact>
+                <AreaCode>248</AreaCode>
+                <PhoneNumber>9948014</PhoneNumber>
+                <Email>jwilliamson@farmersagent.com.no-send</Email>
+                <Fax>2489948016</Fax>
+              </AgentContact>
+              <AgentLicenseStateCode>MI</AgentLicenseStateCode>
+              <AgencyName>James H Williamson</AgencyName>
+              <AgentNameInfo>
+                <FirstName>James</FirstName>
+                <MiddleName>H</MiddleName>
+                <LastName>Williamson</LastName>
+              </AgentNameInfo>
+            </AgentInformation>
+            <PolicyContractNumber>929458048</PolicyContractNumber>
+            <PolicyCompanyCode>2</PolicyCompanyCode>
+            <PolicyInceptionDate>04/04/2016</PolicyInceptionDate>
+            <PayPlanCode />
+            <InforceDate>04/04/2016</InforceDate>
+            <RateAccessDate>04/04/2016</RateAccessDate>
+            <RenewalDate>04/04/2017</RenewalDate>
+            <RatingCompanyCode>P</RatingCompanyCode>
+            <PolicyDifferentMailingAddressInd />
+            <PolicyStateCode>MI</PolicyStateCode>
+            <PolicyStateCharge>0.00</PolicyStateCharge>
+            <PolicyNewFullTermPremiumAmount>522.88</PolicyNewFullTermPremiumAmount>
+            <EPolicyInd>P</EPolicyInd>
+            <PolicyProductGroupCode>HO</PolicyProductGroupCode>
+            <PolicyProductTypeCode>SPHO</PolicyProductTypeCode>
+            <AddInd>Y</AddInd>
+            <PolicyTransactionSurchargeAmount>0.00</PolicyTransactionSurchargeAmount>
+            <RetroInd>N</RetroInd>
+            <TransactionEffectiveDate>04/04/2016</TransactionEffectiveDate>
+            <RegionCode>02</RegionCode>
+            <PolicyEffectiveDate>04/04/2016</PolicyEffectiveDate>
+            <PolicyEndorsements>
+              <PolicyEndorsement>
+                <EndorsementNumber>258431</EndorsementNumber>
+                <EditionNumber>411</EditionNumber>
+                <EndorsementGroupCode>M</EndorsementGroupCode>
+                <RestrictionCode />
+              </PolicyEndorsement>
+              <PolicyEndorsement>
+                <EndorsementNumber>253031</EndorsementNumber>
+                <EditionNumber>214</EditionNumber>
+                <EndorsementGroupCode>M</EndorsementGroupCode>
+                <RestrictionCode />
+              </PolicyEndorsement>
+              <PolicyEndorsement>
+                <EndorsementNumber>MI053</EndorsementNumber>
+                <EditionNumber>1ST</EditionNumber>
+                <EndorsementGroupCode>M</EndorsementGroupCode>
+                <RestrictionCode />
+              </PolicyEndorsement>
+              <PolicyEndorsement>
+                <EndorsementNumber>258985</EndorsementNumber>
+                <EditionNumber>113</EditionNumber>
+                <EndorsementGroupCode>S</EndorsementGroupCode>
+                <RestrictionCode />
+              </PolicyEndorsement>
+              <PolicyEndorsement>
+                <EndorsementNumber>257660</EndorsementNumber>
+                <EditionNumber>1013</EditionNumber>
+                <EndorsementGroupCode>S</EndorsementGroupCode>
+                <RestrictionCode />
+              </PolicyEndorsement>
+              <PolicyEndorsement>
+                <EndorsementNumber>254608</EndorsementNumber>
+                <EditionNumber>1115</EditionNumber>
+                <EndorsementGroupCode>S</EndorsementGroupCode>
+                <RestrictionCode />
+              </PolicyEndorsement>
+              <PolicyEndorsement>
+                <EndorsementNumber>254972</EndorsementNumber>
+                <EditionNumber>1014</EditionNumber>
+                <EndorsementGroupCode>S</EndorsementGroupCode>
+                <RestrictionCode />
+              </PolicyEndorsement>
+              <PolicyEndorsement>
+                <EndorsementNumber>259107</EndorsementNumber>
+                <EditionNumber>1014</EditionNumber>
+                <EndorsementGroupCode>S</EndorsementGroupCode>
+                <RestrictionCode />
+              </PolicyEndorsement>
+              <PolicyEndorsement>
+                <EndorsementNumber>254708</EndorsementNumber>
+                <EditionNumber>107</EditionNumber>
+                <EndorsementGroupCode>S</EndorsementGroupCode>
+                <RestrictionCode />
+              </PolicyEndorsement>
+              <PolicyEndorsement>
+                <EndorsementNumber>253090</EndorsementNumber>
+                <EditionNumber>1115</EditionNumber>
+                <EndorsementGroupCode>S</EndorsementGroupCode>
+                <RestrictionCode />
+              </PolicyEndorsement>
+            </PolicyEndorsements>
+            <ProjectCode>N</ProjectCode>
+            <BtPolicyEffectDate>04/04/2016</BtPolicyEffectDate>
+            <TransactionAppliedTimestamp>2016-04-04-04.23.25.233199</TransactionAppliedTimestamp>
+            <PolicyFees>
+              <PolicyFee>
+                <FeeCode>PF</FeeCode>
+                <FeeAmount>25.00</FeeAmount>
+              </PolicyFee>
+            </PolicyFees>
+            <InsuredInformation>
+              <PrimaryInsureds>
+                <PrimaryInsured>
+                  <ClientType>PRIMARY_INSURED</ClientType>
+                  <RelationshipToHouseholdCode>H</RelationshipToHouseholdCode>
+                  <MarritalStatus>S</MarritalStatus>
+                  <ClientOccupationCode>DF</ClientOccupationCode>
+                  <BirthDate>01/01/1997</BirthDate>
+                  <ClientNumber>546332054</ClientNumber>
+                  <ClientNameInfo>
+                    <FirstName>RAZIA</FirstName>
+                    <MiddleName />
+                    <LastName>SHAIK</LastName>
+                    <Suffix />
+                    <CompanyName />
+                  </ClientNameInfo>
+                </PrimaryInsured>
+              </PrimaryInsureds>
+              <SecondaryInsureds />
+              <InsuredContact>
+                <AreaCode>789</AreaCode>
+                <PhoneNumber>4561237</PhoneNumber>
+                <Email>RAZIASHAIK@GMAIL.COM</Email>
+              </InsuredContact>
+            </InsuredInformation>
+            <TransactionTypeCode />
+            <FacesheetNames>
+              <FacesheetName>RAZIA SHAIK</FacesheetName>
+            </FacesheetNames>
+            <PolicyLapses>
+              <PolicyLapse />
+            </PolicyLapses>
+            <CreditScore>
+              <VendorCode>Q1</VendorCode>
+            </CreditScore>
+            <Claims />
+            <AgentTransactionTimestamp>2016-04-04-04.23.25.233199</AgentTransactionTimestamp>
+            <ProcessingAgent>7114317</ProcessingAgent>
+            <PolicyDiscounts>
+              <PolicyDiscount>
+                <DiscountCode>NEWHM2  </DiscountCode>
+              </PolicyDiscount>
+              <PolicyDiscount>
+                <DiscountCode>PREFPP  </DiscountCode>
+              </PolicyDiscount>
+              <PolicyDiscount>
+                <DiscountCode>CLAIMFR </DiscountCode>
+              </PolicyDiscount>
+              <PolicyDiscount>
+                <DiscountCode>GRP DENT</DiscountCode>
+              </PolicyDiscount>
+              <PolicyDiscount>
+                <DiscountCode>GOODPD  </DiscountCode>
+              </PolicyDiscount>
+              <PolicyDiscount>
+                <DiscountCode>EPOLICY </DiscountCode>
+              </PolicyDiscount>
+            </PolicyDiscounts>
+            <Surcharges />
+            <SpecimenLetters>
+              <SpecimenLetter />
+            </SpecimenLetters>
+            <InsuredNames>
+              <InsuredName>RAZIA SHAIK</InsuredName>
+            </InsuredNames>
+            <PolicyDeductibles>
+              <PolicyDeductible>
+                <DeductibleCode>A</DeductibleCode>
+                <DeductibleAmount>2500</DeductibleAmount>
+              </PolicyDeductible>
+            </PolicyDeductibles>
+            <Losses />
+            <CameoOffer>
+              <ContentsCoverage>5000</ContentsCoverage>
+              <AdditionalLivingExpensesCoverage>1500</AdditionalLivingExpensesCoverage>
+              <DwellingCoverage>162000</DwellingCoverage>
+              <LossAssessmentCoverage>No Coverage</LossAssessmentCoverage>
+              <DwellingDeductible>24,300.00</DwellingDeductible>
+            </CameoOffer>
+            <PerilLevelPremiums>
+              <PerilLevelPremium>
+                <PerilCode>G3</PerilCode>
+                <PerilPremium>131.4242</PerilPremium>
+              </PerilLevelPremium>
+              <PerilLevelPremium>
+                <PerilCode>G4</PerilCode>
+                <PerilPremium>14.7133</PerilPremium>
+              </PerilLevelPremium>
+              <PerilLevelPremium>
+                <PerilCode>W8</PerilCode>
+                <PerilPremium>74.9138</PerilPremium>
+              </PerilLevelPremium>
+              <PerilLevelPremium>
+                <PerilCode>W4</PerilCode>
+                <PerilPremium>26.5426</PerilPremium>
+              </PerilLevelPremium>
+              <PerilLevelPremium>
+                <PerilCode>G5</PerilCode>
+                <PerilPremium>14.9431</PerilPremium>
+              </PerilLevelPremium>
+              <PerilLevelPremium>
+                <PerilCode>G9</PerilCode>
+                <PerilPremium>188.0427</PerilPremium>
+              </PerilLevelPremium>
+              <PerilLevelPremium>
+                <PerilCode>LG</PerilCode>
+                <PerilPremium>63.5300</PerilPremium>
+              </PerilLevelPremium>
+              <PerilLevelPremium>
+                <PerilCode>H2</PerilCode>
+                <PerilPremium>8.7681</PerilPremium>
+              </PerilLevelPremium>
+            </PerilLevelPremiums>
+          </HomePolicy>
+        </ns2:HomeDocRequest>
